@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development,Anime
 - 🌱 I’m currently learning Web Dev(Js)
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ...
+- 📫 How to reach me twitter
 
 <!---
 SairamS28/SairamS28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

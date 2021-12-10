@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SairamS28
 - 👀 I’m interested in Web Development,Anime
-- 🌱 I’m currently learning Web Dev(Js)
+- 🌱 I’m currently learning Web Dev(ReactJs)
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me twitter
 

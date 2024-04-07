@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Analytics,Anime
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me twitter
 - Google Colab Link: https://colab.research.google.com/drive/1TYya-gkuJNL7Mj8_K-qcVbErtDe4Jtj4?usp=sharing
 
 <!---
